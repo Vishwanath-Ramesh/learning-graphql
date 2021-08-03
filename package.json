@@ -1,0 +1,24 @@
+{
+  "name": "learning-graphql",
+  "version": "1.0.0",
+  "description": "A simple GraphQL server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishwanath-Ramesh/learning-graphql.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "GraphQL",
+    "ExpressJS"
+  ],
+  "author": "Vishwanath Rameshbabu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishwanath-Ramesh/learning-graphql/issues"
+  },
+  "homepage": "https://github.com/Vishwanath-Ramesh/learning-graphql#readme"
+}
