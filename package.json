@@ -4,7 +4,8 @@
   "description": "A simple GraphQL server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/Vishwanath-Ramesh/learning-graphql/issues"
   },
-  "homepage": "https://github.com/Vishwanath-Ramesh/learning-graphql#readme"
+  "homepage": "https://github.com/Vishwanath-Ramesh/learning-graphql#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
